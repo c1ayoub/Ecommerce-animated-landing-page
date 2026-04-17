@@ -1,12 +1,5 @@
-# 🍯 Absolute Amlou — Premium Moroccan Spread
+# 🍯 Absolute Amlou — Premium Moroccan Spread Landing Page
 
-![Absolute Amlou Banner](https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?auto=format&fit=crop&q=80&w=1200&h=400)
-
-> **"Boring breakfasts are the problem. Amlou is the cure."**
-
-Absolute Amlou is a high-end, cinematically designed landing page for a luxury Moroccan spread brand. This project showcases the ancestral Berber method of crafting Amlou—a rich blend of stone-ground almonds, culinary argan oil, and orange blossom honey—through a premium digital experience.
-
----
 
 ## ✨ Features
 
@@ -66,16 +59,4 @@ Absolute Amlou is a high-end, cinematically designed landing page for a luxury M
 
 ---
 
-## 🏺 The Story behind the Spread
-
-We craft our Amlou using the authentic, ancestral Berber method. Stone-ground roasted almonds, ethically sourced culinary argan oil, and pure orange blossom honey. Nothing else. Zero palm oil, zero artificial additives.
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
-
-Developed with ❤️ by [Ayoub](https://github.com/ayoub)
+Developed with ❤️ by [Ayoub](https://github.com/c1ayoub)
